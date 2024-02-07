@@ -1,7 +1,7 @@
 # Kaggle-Challenge-Assignment
 
-Here is some text before the image
+Welcome to our GitHub repo!
 
 ![Logo](course_logo3.png)
 
-Here is some text after the image
+We have stored our data here.
